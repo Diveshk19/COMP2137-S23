@@ -1,0 +1,35 @@
+2023-07-19 16:16:17 - Script started.
+2023-07-19 16:16:17 - Step 1: Initialization
+2023-07-19 16:16:17 - Step 2: Check Current Configuration
+2023-07-19 16:16:17 - Step 3: Firewall Configuration
+2023-07-19 16:16:17 - Step 4: User Accounts and SSH Keys
+2023-07-19 16:16:17 - Creating user: dennis
+2023-07-19 16:16:17 - Creating user: aubrey
+2023-07-19 16:16:17 - Creating user: captain
+2023-07-19 16:16:17 - Creating user: snibbles
+2023-07-19 16:16:18 - Creating user: brownie
+2023-07-19 16:16:18 - Creating user: scooter
+2023-07-19 16:16:18 - Creating user: sandy
+2023-07-19 16:16:18 - Creating user: perrier
+2023-07-19 16:16:18 - Creating user: cindy
+2023-07-19 16:16:18 - Creating user: tiger
+2023-07-19 16:16:18 - Creating user: yoda
+2023-07-19 16:16:18 - Step 5: Applying Changes
+2023-07-19 16:16:18 - Step 6: Testing
+2023-07-19 16:16:18 - Script completed.
+2023-07-19 16:19:07 - Script started.
+2023-07-19 16:19:07 - Step 1: Initialization
+2023-07-19 16:19:07 - Step 2: Check Current Configuration
+2023-07-19 16:19:07 - Step 3: Firewall Configuration
+2023-07-19 16:19:07 - Step 4: User Accounts and SSH Keys
+2023-07-19 16:19:07 - Step 5: Applying Changes
+2023-07-19 16:19:07 - Step 6: Testing
+2023-07-19 16:19:07 - Script completed.
+2023-07-19 16:19:39 - Script started.
+2023-07-19 16:19:39 - Step 1: Initialization
+2023-07-19 16:19:39 - Step 2: Check Current Configuration
+2023-07-19 16:19:39 - Step 3: Firewall Configuration
+2023-07-19 16:19:39 - Step 4: User Accounts and SSH Keys
+2023-07-19 16:19:39 - Step 5: Applying Changes
+2023-07-19 16:19:39 - Step 6: Testing
+2023-07-19 16:19:39 - Script completed.
